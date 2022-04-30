@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZQJH
-- 👀 I’m interested in business&data analysis
-- 🌱 I’m currently learning R, Python.
-- 💞️ I’m looking to collaborate on business&data analytics projects.
-- 📫 How to reach me: email:zhangqujiaheng@163.com
+- 👀 I’m interested in data science&data analytics
+- 🌱 I’m currently learning Predictive analytics, causal inference and big data analytics.
+- 💞️ I’m looking to collaborate on data science&data analytics projects.
+- 📫 How to reach me: email:zhan7977@umn.edu
 
 <!---
 ZQJH/ZQJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
